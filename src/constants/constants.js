@@ -25,7 +25,7 @@ export const projects = [
       "ShareMe is the name of the project which has all advanced Social Media features, such as Google Authentication, create, edit, delete and save posts, like and comment on other people's posts, search and filter images and much more.",
     image: "/images/3.png",
     tags: ["React", "Sanity"],
-    source: "https://justshareme.netlify.app",
+    source: "https://google.com",
     visit: "https://github.com",
     id: 2,
   },
